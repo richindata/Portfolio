@@ -5,7 +5,7 @@ Hi, I'm Rich! I specialize in analytics and software development. This portfolio
 - **[ARIMA Modeling](https://github.com/richindata/Portfolio/blob/projects/ARIMA%20Model.ipynb)**: This is a continuation of the exploratory data analysis project where I utilized my findings from the previous report to develop an Autoregressive Integrated Moving Average (ARIMA) model. It is a powerful statistical model used for forecasting time-series data.
 
 ## 💻 Software Development Projects
-- **[SQL Database Technical Report][(link)](https://github.com/richindata/Portfolio/blob/projects/SQL%20Database%20Technical%20Report.pdf)**: This is one of my Master's in Software Engineering project where I designed and developed a Flight Data Database using Oracle SQL. It covered the full cycle of database developement from business proposal, database design, and code. It's quite lengthy so feel free to skim over it.
+- **[SQL Database Technical Report](https://github.com/richindata/Portfolio/blob/projects/SQL%20Database%20Technical%20Report.pdf)**: This is one of my Master's in Software Engineering project where I designed and developed a Flight Data Database using Oracle SQL. It covered the full cycle of database developement from business proposal, database design, and code. It's quite lengthy so feel free to skim over it.
 - **[Project Name](link)**: Brief description
 
 Feel free to explore, and reach out if you'd like to collaborate!
