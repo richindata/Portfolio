@@ -8,4 +8,5 @@ Hi, I'm Rich! I specialize in analytics and software development. This portfolio
 - **[SQL Database Technical Report](https://github.com/richindata/Portfolio/blob/projects/SQL%20Database%20Technical%20Report.pdf)**: This is one of my Master's in Software Engineering project where I designed and developed a Flight Data Database using Oracle SQL. It covered the full cycle of database developement from business proposal, database design, and code. It's quite lengthy so feel free to skim over it.
 - **[THOR SDP](https://github.com/richindata/Portfolio/blob/projects/Software%20Development%20Plan%20-%20Project%20THOR.pdf)**: This is the software development plan for the THOR database. It is also one of my course project for my software engineering degree. In this project I proposed and designed a fictitious aicraft maintenance data database that could potentially resolve the issues in tracking maintenance workflows for the F-22 aircraft. It is a supplemental to the previous project but focuses on Scrum development and its artifacts.
 
+## AI Engineering Projects
 Feel free to explore, and reach out if you'd like to collaborate!
